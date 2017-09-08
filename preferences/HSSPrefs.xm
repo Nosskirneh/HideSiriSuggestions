@@ -36,7 +36,7 @@
                                                          cell:PSLinkCell
                                                          edit:Nil];
 
-    [self insertSpecifier:spec afterSpecifierID:@"Siri Suggestions"];
+    [self insertSpecifier:spec atEndOfGroup:0];
 }
 
 %end
