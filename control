@@ -1,7 +1,7 @@
 Package: se.nosskirneh.hidesirisuggestions
 Name: HideSiriSuggestions
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), com.rpetrich.rocketbootstrap (>= 1.0.3)
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Hide apps in Siri Suggestions
 Depiction: https://andreashenriksson.se/repo/depictions/?p=se.nosskirneh.hidesirisuggestions
